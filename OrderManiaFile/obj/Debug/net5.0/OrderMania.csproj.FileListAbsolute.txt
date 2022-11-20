@@ -1,0 +1,48 @@
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.exe
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.deps.json
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\ref\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\bin\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\ref\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\OrderMania\obj\Debug\net5.0\OrderMania.genruntimeconfig.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\ref\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.exe
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.deps.json
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\ref\OrderMania.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.exe
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.deps.json
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.json
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\bin\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.dll
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\refint\OrderMania.dll
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.pdb
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\OrderMania.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\CLH\Second Class\Projects\Write to and Read from File\OrderMania\obj\Debug\net5.0\ref\OrderMania.dll
